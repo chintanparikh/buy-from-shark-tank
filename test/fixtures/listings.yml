@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  season: 1
+  episode: 1
+  name: MyString
+  price: 1.5
+  image: MyString
+
+two:
+  season: 1
+  episode: 1
+  name: MyString
+  price: 1.5
+  image: MyString
