@@ -143,3 +143,15 @@ a.listing {
 .clearfix:before, .clearfix:after { content: ""; display: table; }
 .clearfix:after { clear: both; }
 .clearfix { zoom: 1; }
+
+
+@media screen and (max-width: 48em) {
+  .filters .form-wrapper {
+    position: initial;
+    width: 100%;
+  }
+
+  .filters form select {
+    margin-bottom: 3%;
+  }
+}
