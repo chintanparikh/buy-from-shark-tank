@@ -1,25 +1,37 @@
-<div class="header">
-  <h1>Buy From SharkTank</h1>
-</div>
 
-<div class="filters">
+<div class="pure-g">
+  <div class="pure-u-1 pure-u-md-4-24 filters">
+    <div class="form-wrapper">
+      <%= link_to root_path do %>
+        <h1>Buy From SharkTank</h1>
+      <% end %>
+      <%= form_tag(root_path, method: "get") do %>
+        <span class="fa fa-search"></span>
 
-</div>
+        <%= text_field_tag(:search_term, params[:search_term], placeholder: 'Enter search term...', class: 'search_box') %>
 
-<div class="listings transitions-enabled infinite-scroll clearfix rlt">
-  <% @listings.each do |listing| %>
-    <a class="listing" href="<%= listing.link %>" target="_blank">
-      <img src="<%= listing.image %>" alt=""/>
-      <div class="details">
-        <h2><%= listing.name %></h2>
-        <span class="sub">Season <%= listing.season %></span>
-        <span class="sub">Episode <%= listing.episode %></span>
-        <% if listing.price %>
-          <span class="sub">Price $<%= listing.price %></span>
-        <% end %>
-      </div>
-    </a>
-  <% end %>
+        <%= select_tag "season", options_for_select((1..7).to_a.insert(0, "Season"), params[:season]) %>
+        <%= select_tag "episode", options_for_select((1..29).to_a.insert(0, "Episode"), params[:episode]) %>
+      <% end %>
+    </div>
+  </div>
+  <div class="pure-u-1 pure-u-md-20-24">
+    <div class="listings transitions-enabled infinite-scroll clearfix rlt has-gutters">
+      <% @listings.each do |listing| %>
+        <a class="listing" href="<%= listing.link %>" target="_blank">
+          <img src="<%= listing.image %>" alt=""/>
+          <div class="details">
+            <h2><%= listing.name %></h2>
+            <span class="sub">Season <%= listing.season %></span>
+            <span class="sub">Episode <%= listing.episode %></span>
+            <% if listing.price %>
+              <span class="sub">Price $<%= listing.price %></span>
+            <% end %>
+          </div>
+        </a>
+      <% end %>
+    </div>
+  </div>
 </div>
 
 <nav id="page-nav">

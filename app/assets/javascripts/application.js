@@ -22,6 +22,12 @@
 
 $(function(){
 
+  // Filters auto-submit
+  $('.filters select').change(function() {
+    $(this).closest('form').trigger('submit');
+  })
+
+  // Masonry
   var $container = $('.listings');
 
   $container.imagesLoaded( function() {
@@ -33,10 +39,12 @@ $(function(){
     });
   });
 
+  // Infinite Scroll
   $container.infinitescroll({
       navSelector  : '#page-nav',    // selector for the paged navigation
       nextSelector : '#page-nav a',  // selector for the NEXT link (to page 2)
       itemSelector : '.listing',     // selector for all items you'll retrieve
+      bufferPx: 500,
       loading: {
           finishedMsg: 'No more pages to load.',
           img: 'http://i.imgur.com/6RMhx.gif'
