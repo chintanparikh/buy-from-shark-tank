@@ -22,13 +22,23 @@
  *= require font-awesome
  */
 
+html, body {
+  height: 100%;
+}
+
 body {
   background: #EFEAEB;
 }
 
+.pure-g {
+  min-height: 100%;
+}
+
 .filters {
   background: #252525;
+  min-height: 100%;
 }
+
 .filters a {
   text-decoration: none;
 }
