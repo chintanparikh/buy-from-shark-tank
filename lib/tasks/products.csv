@@ -371,165 +371,136 @@
 5,28,Plated
 5,28,Zodiak Cakes
 5,29,Fort Magic
-5,29,Ilumi
-5,29,Zoobean
+5,29,Ilumi,59.99,http://ecx.images-amazon.com/images/I/518MahTpGLL._SL1000_.jpg,http://amzn.to/1SefWKR
 5,29,Wine Doctor
-6,01,Amber
-6,01,Bombas
-6,01,Hammer and Nails
-6,01,Sleeping Baby
-6,02,Floating Mug Company
-6,02,Kronos Putters
-6,02,Roominate
-6,02,Wedding Wagon
-6,03,Drum Pants
-6,03,Heart Pup
-6,03,Ninja Cards
-6,03,Soap Sox
-6,04,Beat Box Beverages
-6,04,Emergensee
-6,04,HoneyFund
-6,04,The Oilerie
-6,05,Caddy Girls
-6,05,Jungle Jumparoo
-6,05,Red Dress Boutique
-6,05,SunStaches
-6,06,Fun Cakes
-6,06,Paper Box Pilots
-6,06,Reviver
-6,06,Table Jack
-6,07,Bottle Bright
-6,07,evREwares
-6,07,Scratch and Grain Baking Company
-6,07,Vestpakz
-6,08,Bottle Breacher
-6,08,Man Pack
-6,08,Priority 1 Canine
-6,08,The Natural Grip
-6,09,BeardBrand
-6,09,Myself Belts
-6,09,SingTrix
-6,09,Titin
-6,10,Heidi Ho
-6,10,Pipcorn
-6,10,Squatty Potty
-6,10,Storm Stoppers
-6,11,Bantam Bagels
-6,11,Coffee Meets Bagel
-6,11,Doorman
-6,11,Skinny Shirt
-6,12,Earth Log
-6,12,Kitchen Safe
-6,12,Magic Cook
-6,12,Off the Cob Tortilla Chips
-6,13,Biaggi
-6,13,Gameday Couture
-6,13,SWAG Essentials
-6,13,Zipz
-6,14,EveDrop
-6,14,Hoppy Paws
-6,14,Mensch on a Bench
-6,14,QFlex
-6,15,BeverageBoy
-6,15,Funbites
-6,15,Himalayan Dog Chew
-6,15,LipBar
-6,16,Balm Chicky Balm Balm
-6,16,BedJet
-6,16,Drain Strain
-6,16,Fresh Patch
-6,17,Keen Home
-6,17,LuminAID
-6,17,Scholly
-6,17,Taaluma Totes
-6,18,BedRyder
-6,18,Coco Jack
-6,18,Frill Clothing
-6,18,Twin Z Pillow
-6,19,Bello Verde
-6,19,TurboPUP
-6,19,Lumio
-6,19,Napwell
-6,20,GreenBox
-6,20,PhoneSoap
-6,20,TycoonRE
-6,20,Victoria’s Kitchen
-6,21,Aqua Vault
-6,21,Echo Valley Meats
-6,21,Emazing Lights
-6,21,Naja
-6,22,BoobyPack
-6,22,Gold Rush Nugget Bucket
-6,22,Lumi
-6,22,Sseko Designs
-6,23,Gato Cafe
-6,23,Shark Wheel
-6,23,Spikeball
-6,23,Sway Motorsports
-6,24,Buck Mason
-6,24,Noene
-6,24,Snag a Stool
-6,24,ZinePak
-6,25,Sunscreen Mist
-6,25,SynDaver Labs
-6,25,You Kick Ass
-6,25,Zoom Interiors
-6,26,Frameri
-6,26,The Paleo Diet Foods
-6,26,World Record Striper Company
-6,26,Zero Pollution Motors
-6,27,Beneath the Ink
-6,27,Melni Connectors
-6,27,NeatCheeks
-6,27,PittMoss
-6,28,Bee Sweet Lemonade
-6,28,Brand Yourself
-6,28,Home T
-6,28,iCPooch
-6,29,Bee Thinking
-6,29,Budsies
-6,29,Forus Athletics
-6,29,PullyPalz
-7,01,Acton Rocket Skates
-7,01,Beebo
-7,01,McClary Brothers Drinking Vinegars
-7,01,SignalVault
-7,02,Loliware
-7,02,Mikki Bey Eyelash Extensions
-7,02,ODANG Hummus
-7,02,Splikity
-7,03,Foot Cardigan
-7,03,Nerdwax
-7,03,Two Guys Bowtie Company
-7,03,Valpark Mobile
-7,04,HotShot
-7,04,Rent Like a Champion
-7,04,Stem Center
-7,04,Windcatcher
-7,05,The Skinny Mirror
-7,05,Switch Witch
-7,05,Three Jerks Beef Jerky
-7,05,XCraft – X PlusOne
-7,06,Dude Wipes
-7,06,EZ Pee Z
-7,06,Milk and Brookies
-7,06,Table 87 Coal Oven Pizza
-7,07,Wink Frozen Desserts
-7,07,Saavy Naturals
-7,07,Clean Cube
-7,07,Simply Fit Board
-7,08,AFreSHeet
-7,08,Grip Clean
-7,08,Polar Pro
-7,08,UnShrinkIt
-7,09,Brazi Bites
-7,09,Umano
-7,09,Socktabs
-7,10,Glow Recipe
-7,10,Leaux Racing Trikes
-7,10,Sarah Oliver Handbags
-7,10,Trunkster
-7,11,BeardHead
-7,11,GeekMyTree
-7,11,Lovepop
-7,11,PiperWai
+6,01,Amber,,http://ecx.images-amazon.com/images/I/81lLLNX8JAL._SL1500_.jpg,http://amzn.to/1Vd0zBN
+6,01,Bombas,,http://bombas.scdn1.secure.raxcdn.com/media/catalog/product/cache/1/small_image/500x/9df78eab33525d08d6e5fb8d27136e95/m/e/xmen_merinowool_3pack_3.jpg.pagespeed.ic.tXzGDFJTnW.jpg,http://www.bombas.com/
+6,01,Sleeping Baby,,http://ecx.images-amazon.com/images/I/91FC9hxJ43L._SL1500_.jpg,http://amzn.to/1m7Ftta
+6,02,Floating Mug Company,14.99,http://ecx.images-amazon.com/images/I/71bE3uE3qYL._SL1500_.jpg,http://amzn.to/1VcZSs8
+6,02,Kronos Putters,,http://ecx.images-amazon.com/images/I/51E367fs1YL.jpg,http://amzn.to/1m7Fmh5
+6,02,Roominate,39.99,http://ecx.images-amazon.com/images/I/7121tnn3xQL._SL1356_.jpg,http://amzn.to/1m7Fjlm
+6,03,Heart Pup,521,http://ecx.images-amazon.com/images/I/514B5gaPtPL.jpg,http://amzn.to/1m7Fhdo
+6,03,Ninja Cards,35.99,http://ecx.images-amazon.com/images/I/81Dn1BO7TaL._SL1500_.jpg,http://amzn.to/1VcZmdP
+6,03,Soap Sox,14.95,http://ecx.images-amazon.com/images/I/31Dpgm-fcTL.jpg,http://amzn.to/1m7FahS
+6,04,Beat Box Beverages,,http://www.beatboxbeverages.com/wp-content/uploads/2014/03/beatboxlogo1.png,http://www.beatboxbeverages.com/
+6,04,Emergensee,27,http://ecx.images-amazon.com/images/I/51Aev%2BQktrL._UX679_.jpg,http://amzn.to/1m7F8GF
+6,05,Jungle Jumparoo,249,http://ecx.images-amazon.com/images/I/81DsH9ZqYCL._SL1500_.jpg,http://amzn.to/1VcYINt
+6,05,SunStaches,7.49,http://ecx.images-amazon.com/images/I/51tgkyFRGkL._UX679_.jpg,http://amzn.to/1m7F0ad
+6,06,Paper Box Pilots,15,http://ecx.images-amazon.com/images/I/71KCaBcN7FL._SL1000_.jpg,http://amzn.to/1m7EUPS
+6,06,Reviver,6.95,http://ecx.images-amazon.com/images/I/81GO9NbzXmL._SX522_.jpg,http://amzn.to/1VcYhCO
+6,06,Table Jack,14.95,http://ecx.images-amazon.com/images/I/51EJvbnpCiL._SL1024_.jpg,http://amzn.to/1m7EOIf
+6,07,Bottle Bright,11.85,http://ecx.images-amazon.com/images/I/81J4nH8eyXL._SL1500_.jpg,http://amzn.to/1VcY56u
+6,07,evREwares,9,http://ecx.images-amazon.com/images/I/51vX0UTSGmL._UY879_.jpg,http://amzn.to/1VcY1Um
+6,07,Scratch and Grain Baking Company,6.69,http://ecx.images-amazon.com/images/I/71MZu7rHaQL._SX522_.jpg,http://amzn.to/1VcXTnP
+6,08,Bottle Breacher,12,http://ecx.images-amazon.com/images/I/71zwWxSB8uL._SL1500_.jpg,http://amzn.to/1VcXLEI
+6,08,Man Pack,62,http://ecx.images-amazon.com/images/I/91I0nh49yXL._UY879_.jpg,http://amzn.to/1VcXodn
+6,08,The Natural Grip,21,http://ecx.images-amazon.com/images/I/510AZtwWk6L._SX522_.jpg,http://amzn.to/1VcXeme
+6,09,BeardBrand,25,http://ecx.images-amazon.com/images/I/41GROlymzOL.jpg,http://amzn.to/1VcXcuQ
+6,09,Myself Belts,16.95,http://www.wrightstuff.biz/assets/images/2myself-belt-youth.jpg,http://amzn.to/1VcX26t
+6,09,SingTrix,349.99,http://ecx.images-amazon.com/images/I/71hYLXrnYXL._SL1500_.jpg,http://amzn.to/1m7EqJz
+6,09,Titin,206,http://ecx.images-amazon.com/images/I/717%2BgtkROGL._SL1200_.jpg,http://amzn.to/1m7EpFF
+6,10,Heidi Ho,,https://cdn.nexternal.com/vegane/images/HeidoHoChiaCheezeNewLG.jpg,https://store.veganessentials.com/chia-cheeze-sauce-by-heidi-ho-veganics-p4242.aspx
+6,10,Pipcorn,,http://ecx.images-amazon.com/images/I/41hKB4NZulL.jpg,http://amzn.to/1m7El8Q
+6,10,Squatty Potty,28,http://ecx.images-amazon.com/images/I/41iU2XTOhXL.jpg,http://amzn.to/1VcW5er
+6,10,Storm Stoppers,,http://www.plywoodalternative.com/wp-content/uploads/ss-header-960w-blue-bckgrd-hurricane.jpg,http://www.plywoodalternative.com/
+6,11,Skinny Shirt,68,http://ecx.images-amazon.com/images/I/61srFuNC5IL._UX679_.jpg,http://amzn.to/1OpeYvu
+6,12,Earth Log,38.50,http://ecx.images-amazon.com/images/I/81aTqxPF3fL._SY450_.jpg,http://amzn.to/1YCZjYN
+6,12,Kitchen Safe,59.95,http://ecx.images-amazon.com/images/I/7166MO55CnL._SL1500_.jpg,http://amzn.to/1YCZi7r
+6,12,Magic Cook,12.49,http://ecx.images-amazon.com/images/I/71rMzbQef6L._SL1500_.jpg,http://amzn.to/1OpeHsw
+6,12,Off the Cob Tortilla Chips,,http://www.offthecobchips.com/images/sweet-vs-grain_sweet.png,http://www.offthecobchips.com/
+6,13,Biaggi,75,http://ecx.images-amazon.com/images/I/61xgxssevKL._UX679_.jpg,http://amzn.to/1YCYZt7
+6,13,Gameday Couture,38.40,http://ecx.images-amazon.com/images/I/61EHW2pc14L._UX679_.jpg,http://amzn.to/1YCYY8s
+6,13,SWAG Essentials,20.35,http://ecx.images-amazon.com/images/I/51eNuEHYdTL.jpg,http://amzn.to/1YCYX4y
+6,13,Zipz,,https://images-na.ssl-images-amazon.com/images/I/71Vfnpqp1lL.jpg,http://amzn.to/1Opew0d
+6,14,EveDrop,45.95,http://ecx.images-amazon.com/images/I/81tKLlCx4TL._SL1500_.jpg,http://amzn.to/1OpepBS
+6,14,Hoppy Paws,6.99,http://ecx.images-amazon.com/images/I/61%2BYtmCov3L._SL1000_.jpg,http://amzn.to/1OpemGe
+6,14,Mensch on a Bench,50,http://ecx.images-amazon.com/images/I/61w6D-psC%2BL._SY450_.jpg,http://amzn.to/1Opeo0E
+6,14,QFlex,24.99,http://ecx.images-amazon.com/images/I/819Oe1ARMiL._SX522_.jpg,http://amzn.to/1YCYEqv
+6,15,BeverageBoy,19.99,http://ecx.images-amazon.com/images/I/71g8jdavVJL._SL1500_.jpg,http://amzn.to/1YCYAXG
+6,15,Funbites,8.08,http://ecx.images-amazon.com/images/I/81BFTtT2vXL._SL1500_.jpg,http://amzn.to/1YCYxLs
+6,15,Himalayan Dog Chew,21.99,http://ecx.images-amazon.com/images/I/71P5vzixXgL._SY450_.jpg,http://amzn.to/1YCYwai
+6,15,LipBar,20,http://ecx.images-amazon.com/images/I/31D7Oao%2BZWL.jpg,http://amzn.to/1Ope6XA
+6,16,Balm Chicky Balm Balm,8,http://ecx.images-amazon.com/images/I/910d9pV6bML._SL1500_.jpg,http://amzn.to/1Ope8ig
+6,16,BedJet,949,http://ecx.images-amazon.com/images/I/61U%2Bp2gn-FL._SL1086_.jpg,http://amzn.to/1Ope0PG
+6,16,Drain Strain,,http://ecx.images-amazon.com/images/I/81%2BdlqpwzOL._SL1500_.jpg,http://amzn.to/1YCYlMj
+6,16,Fresh Patch,19,http://ecx.images-amazon.com/images/I/51sw9fD4rIL.jpg,http://amzn.to/1OpdYaw
+6,17,Keen Home,84.99,http://ecx.images-amazon.com/images/I/61CsKaQaOVL._SY500_.jpg,http://amzn.to/1YCYgIo
+6,17,LuminAID,29.95,http://ecx.images-amazon.com/images/I/716ARGQcIwL._SL1500_.jpg,http://amzn.to/1OpdS2L
+6,17,Taaluma Totes,,https://s-media-cache-ak0.pinimg.com/236x/20/d9/94/20d994fedd8b5204ab383157586bfacc.jpg,http://amzn.to/1YCXVFN
+6,18,BedRyder,699,http://ecx.images-amazon.com/images/I/413i-0a0UiL.jpg,http://amzn.to/1YCXP0T
+6,18,Coco Jack,9.99,http://ecx.images-amazon.com/images/I/41mVzxO31HL._SY450_.jpg,http://amzn.to/1YCXPxI
+6,18,Twin Z Pillow,89.99,http://ecx.images-amazon.com/images/I/91yfCOUr0ML._SL1500_.jpg,http://amzn.to/1Opdykx
+6,19,TurboPUP,17.99,http://ecx.images-amazon.com/images/I/81Tsd12c%2BeL._SL1500_.jpg,http://ecx.images-amazon.com/images/I/81Tsd12c%2BeL._SL1500_.jpg
+6,19,Lumio,259.99,http://ecx.images-amazon.com/images/I/41vcq98PW9L._SX466_.jpg,http://amzn.to/1YCXCL8
+6,19,Napwell,,https://ksr-ugc.imgix.net/projects/723146/photo-original.png?v=1397851967&w=1536&h=1152&fit=crop&auto=format&q=92&s=7d9e292334b58e3907cf979e29b06078,http://napwell.com/
+6,20,GreenBox,30.75,http://ecx.images-amazon.com/images/I/81PfQa0gn7L._SL1500_.jpg,http://amzn.to/1YCXtr4
+6,20,PhoneSoap,89.57,http://ecx.images-amazon.com/images/I/61iuGYiVRdL._SL1500_.jpg,http://amzn.to/1YCXueG
+6,20,Victoria’s Kitchen,,http://ecx.images-amazon.com/images/I/31dpD3BH-2L.jpg,http://amzn.to/1Opd6my
+6,21,Aqua Vault,39,http://ecx.images-amazon.com/images/I/51wGokBqZrL._SL1000_.jpg,http://amzn.to/1YCXefE
+6,21,Emazing Lights,30,http://ecx.images-amazon.com/images/I/616x1B7pFdL._SL1000_.jpg,http://amzn.to/1YCW57I
+6,21,Naja,18,http://ecx.images-amazon.com/images/I/813gdiZ084L._UY879_.jpg,http://amzn.to/1YCW1F7
+6,22,BoobyPack,55,http://ecx.images-amazon.com/images/I/61e9qPlPp3L._UY879_.jpg,http://amzn.to/1YCVToZ
+6,22,Gold Rush Nugget Bucket,129.95,http://ecx.images-amazon.com/images/I/81bUOSugyiL._SL1500_.jpg,http://amzn.to/1OpbZTK
+6,22,Lumi,,http://ecx.images-amazon.com/images/I/71VLFd9a6IL._SL1500_.jpg,http://amzn.to/1OpbYPz
+6,22,Sseko Designs,,http://ecx.images-amazon.com/images/I/71dUQfX5KNL._UY575_.jpg,http://amzn.to/1YCVNh5
+6,23,Shark Wheel,69.95,http://ecx.images-amazon.com/images/I/71waqk3uOXL._SL1263_.jpg,http://amzn.to/1OpbTvg
+6,23,Spikeball,59.99,http://ecx.images-amazon.com/images/I/51YJa0ZudTL.jpg,http://amzn.to/1YCVJ10
+6,23,Sway Motorsports,,http://www.swaymotorsports.com/dist/img/motorcycle-parking.jpg,http://www.swaymotorsports.com/
+6,24,Noene,29.99,http://ecx.images-amazon.com/images/I/41vNFhivOyL.jpg,http://amzn.to/1OpbJ7d
+6,24,ZinePak,,http://ecx.images-amazon.com/images/I/91RZZjqAqwL._SX425_.jpg,http://amzn.to/1YCVvHe
+6,25,SynDaver Labs,,http://ecx.images-amazon.com/images/I/61LtD+K7BVL._AA200_.png,http://amzn.to/1YCV6o7
+6,26,Frameri,,https://frameri.com/img/glasses_breakdown.jpg,https://frameri.com/
+6,26,World Record Striper Company,10,http://ecx.images-amazon.com/images/I/615HQ-6t6ML._SL1280_.jpg,http://amzn.to/1NN1zrx
+6,26,Zero Pollution Motors,,http://zeropollutionmotors.us/wordpress/wp-content/uploads/2013/12/whitepod-300x274.png,http://zeropollutionmotors.us/
+6,27,Beneath the Ink,4.99,http://ecx.images-amazon.com/images/I/51vQeLA9ZlL._SX320_BO1,204,203,200_.jpg,http://amzn.to/1NN1qEx
+6,27,Melni Connectors,,http://www.melniconnectors.com/wp-content/uploads/2014/09/Shark-Tank-2-1-300x200.jpg,http://www.melniconnectors.com/
+6,27,NeatCheeks,8.37,http://ecx.images-amazon.com/images/I/51imEEu3fDL._SY450_.jpg,http://amzn.to/1YCUNcZ
+6,27,PittMoss,,https://s-media-cache-ak0.pinimg.com/736x/80/74/8b/80748beb54e52c552752c6617cc6d913.jpg,http://amzn.to/1YCUMpv
+6,28,Bee Sweet Lemonade,,http://beesweetlemonade.com/,http://amzn.to/1NN1aoN
+6,28,Brand Yourself,,https://heavyeditorial.files.wordpress.com/2015/07/pat-brand.jpg?quality=65&strip=all&strip=all,http://amzn.to/1YCUCOM
+6,28,Home T,25,http://ecx.images-amazon.com/images/I/61mVZBETO9L._UX679_.jpg,http://amzn.to/1YCUyi5
+6,28,iCPooch,,http://ecx.images-amazon.com/images/I/71h0uqA7QNL._SL1500_.jpg,http://amzn.to/1YCUxdP
+6,29,Bee Thinking,499.99,http://ecx.images-amazon.com/images/I/61QejCwzsiL._SL1200_.jpg,http://amzn.to/1YCUwqm
+6,29,Budsies,69,http://steamykitchen.com/wp-content/uploads/2015/09/budsies-review-2-640x430.jpg,http://www.budsies.com/
+6,29,Forus Athletics,,http://wearforus.com/homepage/images/360/usa-1.jpg,http://wearforus.com/homepage/
+6,29,PullyPalz,19.99,http://ecx.images-amazon.com/images/I/41y5N-bthBL._SY450_.jpg,http://amzn.to/1NN0JLo
+7,01,Acton Rocket Skates,499.99,http://ecx.images-amazon.com/images/I/71%2BRu6sRDgL._SL1500_.jpg,http://amzn.to/1NN0Fv7
+7,01,Beebo,,http://ecx.images-amazon.com/images/I/81irxVWq2RL._SL1500_.jpg,http://amzn.to/1NN0Czq
+7,01,McClary Brothers Drinking Vinegars,19.99,http://ecx.images-amazon.com/images/I/61YioZMdCuL._SY679_.jpg,http://amzn.to/1NN0BeL
+7,01,SignalVault,15,http://ecx.images-amazon.com/images/I/41GwsBq9m%2BL.jpg,http://amzn.to/1YCU2QZ
+7,02,Loliware,,http://static1.squarespace.com/static/53234071e4b0bbee87739cc9/t/5671bf580ab3774b345550a8/1450295130616/LOLIWARE_sharktank_promo.jpg?format=1500w,http://www.loliware.com/
+7,02,Mikki Bey Eyelash Extensions,,http://mblashes.com/wp-content/uploads/2015/01/MB5-737x1024.jpg,http://mblashes.com/
+7,02,ODANG Hummus,,http://cdn2.business2community.com/wp-content/uploads/2015/10/odang-photo-01.jpg,http://www.odanghummus.com/
+7,03,Foot Cardigan,,http://cdn2.business2community.com/wp-content/uploads/2015/10/foot-cardigan-socks.jpg,http://www.footcardigan.com/
+7,03,Nerdwax,12.99,http://ecx.images-amazon.com/images/I/61Aevnb9XbL._SX522_.jpg,http://amzn.to/1NN0hN2
+7,03,Two Guys Bowtie Company,,http://ecx.images-amazon.com/images/I/61nT9WEKKML._UX679_.jpg,http://amzn.to/1YCTIlh
+7,04,HotShot,,https://heavyeditorial.files.wordpress.com/2015/10/hot-shot.jpg?quality=65&strip=all,http://amzn.to/1YCTzOK
+7,04,Rent Like a Champion,,https://pbs.twimg.com/profile_images/615910440271372288/EIc6zn85.jpg,https://rentlikeachampion.com/
+7,04,Stem Center,,http://stemcenterusa.com/mysite/images/stem-home1.jpg,http://stemcenterusa.com/
+7,04,Windcatcher,13.40,http://ecx.images-amazon.com/images/I/6176agr-Z3L._SL1000_.jpg,http://amzn.to/1YCThrb
+7,05,The Skinny Mirror,,http://ecx.images-amazon.com/images/I/611Je6VqTxL._SL1000_.jpg,http://amzn.to/1NMZN9C
+7,05,Switch Witch,18.95,http://ecx.images-amazon.com/images/I/51AnA1tXBcL._SY450_.jpg,http://amzn.to/1NMZJH2
+7,05,Three Jerks Beef Jerky,19.99,http://ecx.images-amazon.com/images/I/41PhLt2WDBL.jpg,http://amzn.to/1NMZFHb
+7,05,XCraft – X PlusOne,,http://xcraft.io/wp-content/uploads/2015/10/meetthexplusone2.jpg,http://xcraft.io/
+7,06,Dude Wipes,8.35,http://ecx.images-amazon.com/images/I/61i9yOSt%2BML._SX522_.jpg,http://amzn.to/1NMZrzQ
+7,06,EZ Pee Z,,http://sharktankblog.com/wp-content/uploads/2015/10/ez-pee-z-590x263.jpg,http://www.ezpeez.com/
+7,06,Milk and Brookies,,http://static.squarespace.com/static/53bc5173e4b026326f829036/t/53bcce01e4b095b6a429e188/1404882433796/14600777042_93c816e304_k.jpg,http://www.milkandbrookies.com/
+7,07,Wink Frozen Desserts,,http://ecx.images-amazon.com/images/I/61bFhvUfvgL._SL1000_.jpg,http://amzn.to/1NMZj3w
+7,07,Saavy Naturals,,http://ecx.images-amazon.com/images/I/51X%2BB1o9dwL._SY679_.jpg,http://amzn.to/1QY7vCo
+7,07,Clean Cube,,http://bkaccelerator.com/wp-content/uploads/2014/11/Clean_Cube_1-1024x682.jpg,https://www.thecleancube.com/
+7,07,Simply Fit Board,,http://ecx.images-amazon.com/images/I/41MYjVv5iZL.jpg,http://amzn.to/1QY7iPu
+7,08,AFreSHeet,29.99,http://ecx.images-amazon.com/images/I/31y6LAHY9lL.jpg,http://amzn.to/1NMYRSQ
+7,08,Grip Clean,,http://ecx.images-amazon.com/images/I/41uEEcxO90L.jpg,http://amzn.to/1NMYO9u
+7,08,Polar Pro,49.99,http://ecx.images-amazon.com/images/I/41F5y9COKNL._SY450_.jpg,http://amzn.to/1NMYMyx
+7,08,UnShrinkIt,11.98,http://ecx.images-amazon.com/images/I/41pT2D70oLL.jpg,http://amzn.to/1NMYI1M
+7,09,Brazi Bites,,http://ecx.images-amazon.com/images/I/61gP1K0IXpL._SX522AA522_PIbundle-12,TopRight,0,0_AA522_SH20_.jpg,http://amzn.to/1NMYFTs
+7,09,Umano,,http://cdn.shopify.com/s/files/1/0916/3366/products/umanotarian_ATLAS_grey_crewneck_torso_1024x1024.jpg?v=1447877723,http://umano.com/
+7,09,Socktabs,9.99,http://ecx.images-amazon.com/images/I/61SE2qLSVaL._SL1398_.jpg,http://amzn.to/1QY75vD
+7,10,Glow Recipe,,http://cdn.shopify.com/s/files/1/0543/8301/products/Blithe_Tundra_Chaga_Pressed_Serum_shark_large.gif?v=1449269831,http://www.glowrecipe.com/
+7,10,Leaux Racing Trikes,599.99,http://ecx.images-amazon.com/images/I/41AJAKJICRL.jpg,http://amzn.to/1QY6SJ1
+7,10,Sarah Oliver Handbags,199,http://saraholiverhandbags.com/wp-content/uploads/2015/09/resort_wristlet_black_optimized-510x392.jpg,http://saraholiverhandbags.com/
+7,10,Trunkster,355,http://www.thewildsmithberrys.com/wp-content/uploads/2012/12/Trunkster-Intelligent-Zipperless-Luggage-11.jpg,http://www.trunkster.co/
+7,11,BeardHead,19.99,http://ecx.images-amazon.com/images/I/91xJJmowELL._SL1500_.jpg,http://amzn.to/1NMY2cP
+7,11,GeekMyTree,249.99,http://ecx.images-amazon.com/images/I/61SSjTKi9tL._SL1500_.jpg,http://amzn.to/1NMXZxC
+7,11,Lovepop,12,http://ecx.images-amazon.com/images/I/71pMnc0f64L._SX1200_.jpg,http://amzn.to/1NMXWBG
+7,11,PiperWai,29.99,http://ecx.images-amazon.com/images/I/51oCF2PgylL.jpg,http://amzn.to/1QY6wSO
