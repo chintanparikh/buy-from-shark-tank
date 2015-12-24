@@ -1,2 +1,27 @@
-<h1>Listings#index</h1>
-<p>Find me in app/views/listings/index.html.erb</p>
+<div class="header">
+  <h1>Buy From SharkTank</h1>
+</div>
+
+<div class="filters">
+
+</div>
+
+<div class="listings transitions-enabled infinite-scroll clearfix rlt">
+  <% @listings.each do |listing| %>
+    <a class="listing" href="<%= listing.link %>" target="_blank">
+      <img src="<%= listing.image %>" alt=""/>
+      <div class="details">
+        <h2><%= listing.name %></h2>
+        <span class="sub">Season <%= listing.season %></span>
+        <span class="sub">Episode <%= listing.episode %></span>
+        <% if listing.price %>
+          <span class="sub">Price $<%= listing.price %></span>
+        <% end %>
+      </div>
+    </a>
+  <% end %>
+</div>
+
+<nav id="page-nav">
+  <%= link_to "Next", {page: (params[:page].to_i || 1) + 1} %>
+</nav>
