@@ -1,5 +1,11 @@
 class ListingsController < ApplicationController
   def index
+
+    set_meta_tags site: 'Buy From Shark Tank', title: 'All Products from Shark Tank'
+    set_meta_tags description: "Browse and shop for any product from any episode on Shark Tank."
+    set_meta_tags keywords: %w[shark tank mark cuban lori grenier product products gift gifts idea ideas daymond john]
+
+
     page = params[:page]
     search_term = params[:search_term]
     season = params[:season]
